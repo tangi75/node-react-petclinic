@@ -1,0 +1,19 @@
+{
+  "name": "petclinic-rest-api",
+  "version": "1.0.0",
+  "description": "Rest API to create visits for pet clinic",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Arvind Morwal",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.18.4"
+  }
+}

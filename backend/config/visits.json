@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5b9b52ed653017799ce06778",
+    "visitDate": "2018/09/11",
+    "visitTime": "9am",
+    "description": "rabies shot",
+    "pet": "5b9b4ef47a94e777077508ac",
+    "vet": "5b9b4ffffe5d4c77b6048a9e"
+  },
+  {
+    "id": "5b9b52ed653017799ce06779",
+    "visitDate": "2018/09/12",
+    "visitTime": "10am",
+    "description": "rabies shot",
+    "pet": "5b9b4ef47a94e777077508ad",
+    "vet": "5b9b4ffffe5d4c77b6048a93"
+  },
+  {
+    "id": "5b9b52ed653017799ce0677a",
+    "visitDate": "2018/09/13",
+    "visitTime": "11am",
+    "description": "neutered",
+    "pet": "5b9b4ef47a94e777077508ae",
+    "vet": "5b9b4ffffe5d4c77b6048a95"
+  },
+  {
+    "id": "5b9b52ed653017799ce0677b",
+    "visitDate": "2018/09/14",
+    "visitTime": "2pm",
+    "description": "spayed",
+    "pet": "5b9b4ef47a94e777077508af",
+    "vet": "5b9b4ffffe5d4c77b6048a95"
+  }
+]

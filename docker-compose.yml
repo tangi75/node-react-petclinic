@@ -1,0 +1,23 @@
+version: "3"
+services:
+  db:
+    image: mongo
+    container_name: petclinic-mongo-container
+    ports:
+      - 27017-27019:27017-27019
+  rest:
+    build: backend
+    environment:
+      - DB_HOST=db
+    ports:
+      - 5000:5000
+    depends_on:
+      - db
+  web:
+    build: frontend
+    environment:
+      - REST_HOST=rest
+    ports:
+      - 8080:8080
+    depends_on:
+      - rest
