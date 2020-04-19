@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5b9b4ffffe5d4c77b6048a9e",
+    "firstName": "Walter",
+    "lastName": "White",
+    "specialties": [
+      {
+        "name": "radiology"
+      }
+    ]
+  },
+  {
+    "id": "5b9b4ffffe5d4c77b6048a93",
+    "firstName": "Helen",
+    "lastName": "Leary",
+    "specialties": [
+      {
+        "id": 1,
+        "name": "radiology"
+      }
+    ]
+  },
+  {
+    "id": "5b9b4ffffe5d4c77b6048a95",
+    "firstName": "Linda",
+    "lastName": "Douglas",
+    "specialties": [
+      {
+        "id": 3,
+        "name": "dentistry"
+      },
+      {
+        "id": 2,
+        "name": "surgery"
+      }
+    ]
+  },
+  {
+    "id": "5b9b4ffffe5d4c77b6048a97",
+    "firstName": "Rafael",
+    "lastName": "Ortega",
+    "specialties": [
+      {
+        "id": 2,
+        "name": "surgery"
+      }
+    ]
+  },
+  {
+    "id": "5b9b4ffffe5d4c77b6048a9a",
+    "firstName": "Henry",
+    "lastName": "Stevens",
+    "specialties": [
+      {
+        "id": 1,
+        "name": "radiology"
+      }
+    ]
+  },
+  {
+    "id": "5b9b4ffffe5d4c77b6048a9c",
+    "firstName": "Sharon",
+    "lastName": "Jenkins",
+    "specialties": []
+  }
+]
+

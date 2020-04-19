@@ -1,0 +1,44 @@
+@import "~bootstrap/scss/bootstrap";
+// Required
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import '~react-datepicker/dist/react-datepicker.css';
+
+#app{
+  background-color: #f4f6f6!important
+}
+
+// .navbar {
+//   background-color: #3586f1 !important;
+//   margin-bottom: 0;
+//   border-bottom: 0;
+//   border-left: 0;
+//   border-right: 0;
+//   padding-bottom: 25px;
+//   padding-top: 15px;
+//   margin-bottom: 15px;
+// }
+
+.nav-pills .nav-link {
+  color: white !important;
+}
+
+.react-datepicker__time-list {
+  padding-left: 0px;
+}
+
+.react-datepicker__input-container input {
+  width: 300px;
+}
+
+.confirmationText {
+  text-Align: left;
+  color: '#dcdcdc';
+  line-Height: 1;
+  padding: '0 10px';
+}
+
+.confirmationHighlight {
+    color:  #00bcd4;
+}
