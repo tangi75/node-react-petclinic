@@ -57,6 +57,7 @@ module.exports = {
     new webpack.HotModuleReplacementPlugin()
   ],
   devServer: {
+    host: '0.0.0.0',
     contentBase: './dist',
     hot: true
   }
